@@ -12,4 +12,4 @@
 - [Nodemailer](https://github.com/nodemailer/nodemailer) - The fastest way to handle email.
 
 ### Trying
--[imap-simple](https://www.npmjs.com/package/imap-simple)
+- [imap-simple](https://www.npmjs.com/package/imap-simple) - Wrapper for node-imap
