@@ -10,6 +10,7 @@
 - [sequelize](https://github.com/sequelize/sequelize) - An easy-to-use multi SQL dialect ORM for Node.js 
 - [mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [Nodemailer](https://github.com/nodemailer/nodemailer) - The fastest way to handle email.
+- [csvtojson](https://www.npmjs.com/package/csvtojson) - Nodejs csv parser to convert csv to json or column arrays. 
 
 ### Trying
 - [imap-simple](https://www.npmjs.com/package/imap-simple) - Wrapper for node-imap
