@@ -10,7 +10,11 @@
 - [sequelize](https://github.com/sequelize/sequelize) - An easy-to-use multi SQL dialect ORM for Node.js 
 - [mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [Nodemailer](https://github.com/nodemailer/nodemailer) - The fastest way to handle email.
-- [csvtojson](https://www.npmjs.com/package/csvtojson) - Nodejs csv parser to convert csv to json or column arrays. 
+- [csvtojson](https://www.npmjs.com/package/csvtojson) - Nodejs csv parser to convert csv to json or column arrays.
+- [body-parser](https://github.com/expressjs/body-parser) is a middleware for parsing the body of the request.
+- [express](https://github.com/expressjs/express) to create the web server for the REST API
+- [mongoose](http://mongoosejs.com/) is a schema-based library for working with MongoDB.
+
 
 ## Utilities
 - [get-urls](https://github.com/sindresorhus/get-urls) - Get all urls in a string
