@@ -14,6 +14,8 @@
 - [body-parser](https://github.com/expressjs/body-parser) is a middleware for parsing the body of the request.
 - [express](https://github.com/expressjs/express) to create the web server for the REST API
 - [mongoose](http://mongoosejs.com/) is a schema-based library for working with MongoDB.
+- [request](https://github.com/request/request) - Simplified HTTP request client.
+- [x-ray](https://www.npmjs.com/package/x-ray) - Scrapping
 
 
 ## Utilities
