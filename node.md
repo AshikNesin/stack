@@ -16,6 +16,9 @@
 - [mongoose](http://mongoosejs.com/) is a schema-based library for working with MongoDB.
 - [request](https://github.com/request/request) - Simplified HTTP request client.
 
+## Queue
+- [sqs-consumer](https://github.com/BBC/sqs-consumer) - Build SQS-based Node applications without the boilerplate
+
 ## Scrapping
 - [cheerio](https://cheerio.js.org/) - Fast, flexible & lean implementation of core jQuery designed specifically for the server.
 - [x-ray](https://www.npmjs.com/package/x-ray) - Scrapping
