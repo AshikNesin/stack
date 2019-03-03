@@ -27,6 +27,7 @@
 ## Utilities
 - [get-urls](https://github.com/sindresorhus/get-urls) - Get all urls in a string
 - [array-to-tree](https://www.npmjs.com/package/array-to-tree) - Convert a plain array of nodes (with pointers to parent nodes) to a nested data structure.
+- [ms](https://github.com/zeit/ms) - Easily convert various time formats to milliseconds
 
 ### Trying
 - [imap-simple](https://www.npmjs.com/package/imap-simple) - Wrapper for node-imap
