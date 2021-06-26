@@ -14,6 +14,9 @@
 - [express](https://github.com/expressjs/express) to create the web server for the REST API
 - [delay](https://www.npmjs.com/package/delay) - Delay a promise a specified amount of time.
 
+## Auth
+- [/passport-magic-login](https://github.com/mxstbr/passport-magic-login) - Passwordless authentication with magic links for Passport.js 🔑
+
 ## Queue
 - [sqs-consumer](https://github.com/BBC/sqs-consumer) - Build SQS-based Node applications without the boilerplate
 
