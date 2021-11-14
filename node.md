@@ -13,6 +13,9 @@
 - [body-parser](https://github.com/expressjs/body-parser) is a middleware for parsing the body of the request.
 - [express](https://github.com/expressjs/express) to create the web server for the REST API
 - [delay](https://www.npmjs.com/package/delay) - Delay a promise a specified amount of time.
+- [write-json-file](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically.
+- [load-json-file](https://github.com/sindresorhus/load-json-file) - Read and parse a JSON file
+
 
 ## Auth
 - [/passport-magic-login](https://github.com/mxstbr/passport-magic-login) - Passwordless authentication with magic links for Passport.js 🔑
